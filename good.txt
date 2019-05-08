@@ -2,7 +2,7 @@ aaaaaaaaa
 bbbbbbbbb
 ccccccccc
 ddddddddd  hot_fix add
-eeeeeeeee
+eeeeeeeee  test hot_fix conflict
 fffffffff
 ggggggggg
 hhhhhhhhh
