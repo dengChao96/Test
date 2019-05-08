@@ -5,5 +5,5 @@ ddddddddd  hot_fix add
 eeeeeeeee  test master conflict
 eeeeeeeee  test hot_fix conflict
 fffffffff
-ggggggggg
+ggggggggg This is clone Test
 hhhhhhhhh
